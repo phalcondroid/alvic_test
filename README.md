@@ -144,7 +144,6 @@ URL: GET
          "id":3,
          "name":"Summer Smith",
          "status":"Alive",
-         "species":null,
          "type":"",
          "gender":"Female",
          "origin":{
