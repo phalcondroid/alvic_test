@@ -17,8 +17,8 @@ class _CharactersViewState extends State<CharactersView> {
 
   /// Get characters from server
   Future<void> getCharactersFromServer() async {
-    var characters = 
-      await http.get(Uri.https("rickandmortyapi.com", "api/character"));
+    var characters =
+      await http.get(Uri.https("mocki.io", "v1/5a4770a5-8e75-4a4b-93e8-0fded9315ab2"));
     Map<dynamic, dynamic> result = jsonDecode(characters.body);
     setState(() {
       characterList = result["results"];
