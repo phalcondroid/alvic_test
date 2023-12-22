@@ -164,4 +164,10 @@ URL: GET
 }
 ```
 
+### TROUBLESHOOTING
+
+Si lanza un error de url 404 puedes generar de nuevo el endpoint en la pagina `https://mocki.io/fake-json-api` copiando y pegando el json anterior.
+
+<img width="430" alt="Screenshot 2023-12-22 at 7 12 25 AM" src="https://github.com/phalcondroid/alvic_test/assets/13957703/6a8c7bf9-878a-4430-9820-5d6d15536438">
+
 
