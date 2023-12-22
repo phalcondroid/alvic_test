@@ -85,13 +85,13 @@ PISTA IMPORTANTE!!! Recuerda que lo más importante en clean architecture y S.O.
 #### respuesta del backend
 
 URL: GET
-`https://mocki.io/v1/059d2bbc-c402-45c2-9734-4e97bbba7d4c`
+`https://mocki.io/v1/5a4770a5-8e75-4a4b-93e8-0fded9315ab2`
 
 ```json
 {
    "info":{
       "count":826,
-      "pages":42,
+      "pages":42
       "next":"https://rickandmortyapi.com/api/character?page=2",
       "prev":null
    },
@@ -145,7 +145,6 @@ URL: GET
          "name":"Summer Smith",
          "status":"Alive",
          "type":"",
-         "gender":"Female",
          "origin":{
             "name":"Earth (Replacement Dimension)",
             "url":"https://rickandmortyapi.com/api/location/20"
