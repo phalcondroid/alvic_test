@@ -85,7 +85,7 @@ PISTA IMPORTANTE!!! Recuerda que lo más importante en clean architecture y S.O.
 #### respuesta del backend
 
 URL: GET
-`[https://mocki.io/v1/f9d4d62a-b25f-4c5a-bfdb-281e62008639`](https://mocki.io/v1/059d2bbc-c402-45c2-9734-4e97bbba7d4c)
+`https://mocki.io/v1/059d2bbc-c402-45c2-9734-4e97bbba7d4c`
 
 ```json
 {
